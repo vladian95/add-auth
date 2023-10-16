@@ -12,7 +12,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main></main>
+      <main>
+        <h2>Upgrade your web development today</h2>
+        <h3>Learn web development using the latest tech</h3>
+      </main>
     </>
   );
 }
