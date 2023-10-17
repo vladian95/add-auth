@@ -18,7 +18,8 @@ const Nav = () => {
       )}
       {user && (
         <div>
-          <Link href={'/dashboard'}>welcome</Link>
+          <h2>{user.displayName}</h2>
+          <Link href={'/dashboard'}>AVATAR</Link>
         </div>
       )}
     </nav>
